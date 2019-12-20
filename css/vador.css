@@ -1,0 +1,25 @@
+body {
+  background-color: #333;
+}
+
+.top-m {
+  margin-top: 3rem;
+}
+
+.top-l {
+  margin-top: 8rem;
+}
+
+.top-m-bottom {
+  margin-bottom: 3rem;
+}
+
+.top-l-bottom {
+  margin-bottom: 8rem;
+}
+
+.hero-text {
+  font-family: lato;
+}
+
+/*# sourceMappingURL=vador.css.map */
