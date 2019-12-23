@@ -1,32 +1,25 @@
 body {
-  background-color: #000;
-}
+  background-color: #f2f2f2; }
 
 .top-m {
-  margin-top: 3rem;
-}
+  margin-top: 3rem; }
 
 .top-l {
-  margin-top: 8rem;
-}
+  margin-top: 8rem; }
 
 .top-m-bottom {
-  margin-bottom: 3rem;
-}
+  margin-bottom: 3rem; }
 
 .top-l-bottom {
-  margin-bottom: 8rem;
-}
+  margin-bottom: 8rem; }
 
 .hero-text {
-  font-family: "Cedarville Cursive", cursive;
+  font-family: 'Cedarville Cursive', cursive;
   color: white;
-  font-size: 3rem;
-}
+  font-size: 3rem; }
 
 .h-rule_style {
   background: linear-gradient(to right, yellow 33%, blue 33% 70%, red 33%);
-  height: 0.4rem;
-}
+  height: 0.4rem; }
 
 /*# sourceMappingURL=vador.css.map */
