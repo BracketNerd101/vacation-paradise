@@ -15,11 +15,24 @@ body {
 
 .hero-text {
   font-family: 'Cedarville Cursive', cursive;
-  color: white;
+  color: #333333;
   font-size: 3rem; }
 
 .h-rule_style {
   background: linear-gradient(to right, yellow 33%, blue 33% 70%, red 33%);
-  height: 0.4rem; }
+  height: 0.9rem; }
+
+.hero {
+  background-size: cover;
+  background-color: #ffffff;
+  height: 40rem;
+  width: 100%;
+  margin-bottom: auto;
+  text-align: center; }
+  .hero .hero-margin {
+    margin-top: 8.2rem; }
+
+.fix-rotate {
+  transform: rotateX(45deg); }
 
 /*# sourceMappingURL=vador.css.map */
