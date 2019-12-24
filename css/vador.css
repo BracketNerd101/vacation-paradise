@@ -39,11 +39,15 @@ body {
   text-align: center;
 }
 .hero .hero-margin {
-  margin-top: 8.2rem;
+  margin-top: 6.2rem;
 }
 
 .fix-rotate {
   transform: rotateX(45deg);
+}
+
+.hero-card {
+  margin-top: -10rem;
 }
 
 .progress-container {
