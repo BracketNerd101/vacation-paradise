@@ -39,7 +39,7 @@ body {
 
 .h-rule_style {
     background: linear-gradient(to right, yellow 33%, blue 33% 70%, red 33%);
-    height: 0.9rem;
+    height: 0.4rem;
 }
 
 .hero {
@@ -54,7 +54,6 @@ body {
     .hero-margin {
 
         margin-top: 6.2rem;
-
 
     }
 }
@@ -85,4 +84,9 @@ body {
     padding: 100px 0;
     margin: 50px auto 0 auto;
     width: 80%;
+  }
+
+  .bg-black {
+
+    background-color: #000;
   }
