@@ -46,7 +46,7 @@ body {
 
 .progress-bar {
   height: 5px;
-  background: linear-gradient(to right, yellow 33%, blue 33% 70%, red 33%);
+  background: red;
   width: 0%; }
 
 .content {
